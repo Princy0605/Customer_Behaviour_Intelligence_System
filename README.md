@@ -100,7 +100,7 @@ This system helps businesses **proactively identify churn risks** and make data-
 
 ---
 
-## Future Improvements
+## Future Enhancements
 - Improve recall to reduce false negatives  
 - Combine SVM with ensemble methods for even better performance  
 - Include additional behavioral features for more detailed insights  
@@ -110,3 +110,8 @@ This system helps businesses **proactively identify churn risks** and make data-
 ## References
 - [IBM Telco Customer Churn Dataset - Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 - Scikit-learn documentation: https://scikit-learn.org/  
+
+---
+
+## Author
+PRINCY JAIN
